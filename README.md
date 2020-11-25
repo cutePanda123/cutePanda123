@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> 
+  
+![cutePanda123's github stats](https://github-readme-stats-phi-cyan.vercel.app/api?username=cutePanda123&show_icons=true)
