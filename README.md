@@ -19,5 +19,5 @@ Lifelong Learner & Full-Stack Developer
 <code><img height="20" src="https://github.com/cncf/artwork/blob/master/other/cncf/stacked/color/cncf-stacked-color.png?raw=true"></code> -->
 
 <a href="https://github.com/cutePanda123/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&theme=default&count_private=truel" alt="cutePanda123's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&theme=solarized-dark&count_private=truel" alt="cutePanda123's github stats" />
 </a>
