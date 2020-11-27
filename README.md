@@ -3,7 +3,7 @@
 Lifelong Learner & Full-Stack Developer
 
 - 🤖 I’m currently building [8Billionminds](https://www.facebook.com/8billionminds/), a free online learning platform where you can learn from people around the world.
-- 🤔 I’m interested in tooling automation, web app, and distributed system.
+- 🤔 I’m interested in distributed system, web app, and tooling automation.
 - 🔭 I'm planning to learn big data.
 
 &nbsp;
