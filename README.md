@@ -18,6 +18,6 @@ Lifelong Learner & Full-Stack Developer
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png"></code>
 <code><img height="20" src="https://github.com/cncf/artwork/blob/master/other/cncf/stacked/color/cncf-stacked-color.png?raw=true"></code> -->
 
-<a href="https://github.com/cutePanda123/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&theme=solarized-dark&count_private=truel">
   <img src="https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&theme=solarized-dark&count_private=truel" alt="cutePanda123's github stats" />
 </a>
