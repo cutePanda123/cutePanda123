@@ -9,8 +9,6 @@ Lifelong Learner & Full-Stack Developer
 &nbsp;
 &nbsp;
 
-<a href="https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&theme=solarized-dark&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&count_private=true" alt="cutePanda123's github stats" />
-</a>
+![cutePanda123's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutePanda123&hide=issues&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutePanda123&layout=compact&hide_border=true)](https://github.com/cutePanda123/github-readme-stats)
