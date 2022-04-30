@@ -9,6 +9,6 @@ Lifelong Learner & Full-Stack Developer
 &nbsp;
 &nbsp;
 
-![cutePanda123's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutePanda123&hide=issues&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cutePanda123&hide=issues&show_icons=true&hide_border=true&custom_title=GitHub%20Stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutePanda123&layout=compact&hide_border=true)](https://github.com/cutePanda123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutePanda123&layout=compact&hide_border=true&custom_title=Languages)](https://github.com/cutePanda123/github-readme-stats)
