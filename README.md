@@ -9,6 +9,10 @@ Lifelong Learner & Full-Stack Developer
 &nbsp;
 &nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cutePanda123&hide=issues&show_icons=true&hide_border=true&custom_title=GitHub%20Stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&hide_border=true&custom_title=GitHub%20Stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutePanda123&layout=compact&hide_border=true)](https://github.com/cutePanda123/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutePanda123&layout=compact&hide_border=true)](https://github.com/cutePanda123/github-readme-stats) -->
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=cutePanda123&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
