@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a little panda 🐼
+### Hi there 👋 I'm a little panda 🐼 who loves ☕
 
 Lifelong Learner & Full-Stack Developer
 
