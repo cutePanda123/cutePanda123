@@ -2,7 +2,7 @@
 
 Lifelong Learner & Full-Stack Developer
 
-- 🤖 I’m currently building [8Billionminds](https://www.facebook.com/8billionminds/), a free online learning platform where you can learn from people around the world.
+- 🤖 I’m currently building [ToastBeans](https://toastbeans.com/), a stock analysis app that can help beginner to make better investment decisions.
 - 🤔 I’m interested in distributed system, web app, and tooling automation.
 - 🔭 I'm learning big data now and plan to learn machine learning.
 
