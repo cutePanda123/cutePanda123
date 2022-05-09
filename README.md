@@ -4,7 +4,7 @@ Lifelong Learner & Full-Stack Developer
 
 - 🤖 I’m currently building [ToastBeans](https://toastbeans.com/) with my friend. It is a stock analysis app that can help beginners make better investment decisions.
 - 🤔 I’m interested in distributed system, web/mobile app, and tooling automation.
-- 🔭 I'm learning big data now and plan to learn machine learning.
+- 🔭 I'm learning big data now and planing to learn machine learning.
 
 &nbsp;
 &nbsp;
