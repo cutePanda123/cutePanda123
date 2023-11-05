@@ -1,5 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=cutePanda123&style=flat)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ### Hi there 👋 I'm a little panda 🐼 who loves ☕
 
 Lifelong Learner & Full-Stack Developer
