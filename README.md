@@ -5,7 +5,7 @@ Lifelong Learner & Full-Stack Developer
 
 - 🤖 I’m currently developing an online travel agency app that helps users find last-minute hotel deals.
 - 🤔 I’m interested in distributed system, web/mobile app, and tooling automation.
-- 🔭 I'm learning big data technologies now and planing to learn machine learning in future.
+- 🔭 I'm machine learning concepts and technoligies.
 
 &nbsp;
 &nbsp;
