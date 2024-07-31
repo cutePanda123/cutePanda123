@@ -7,8 +7,6 @@ Lifelong Learner & Full-Stack Developer
 - 🤔 I’m interested in distributed systems, web/mobile apps, and tooling automation.
 - 🔭 I'm learning artificial intelligence concepts and techniques.
 
-&nbsp;
-&nbsp;
 
 ![Snake animation](https://github.com/cutePanda123/cutePanda123/blob/output/github-contribution-grid-snake.svg)
 
