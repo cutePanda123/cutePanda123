@@ -10,6 +10,8 @@ Lifelong Learner & Full-Stack Developer
 &nbsp;
 &nbsp;
 
+![Snake animation](https://github.com/cutePanda123/cutePanda123/blob/output/github-contribution-grid-snake.svg)
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cutePanda123&show_icons=true&hide_border=true&custom_title=GitHub%20Stats) -->
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cutePanda123&layout=compact&hide_border=true)](https://github.com/cutePanda123/github-readme-stats) -->
