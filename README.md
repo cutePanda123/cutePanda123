@@ -1,7 +1,30 @@
 ![](https://komarev.com/ghpvc/?username=cutePanda123&style=flat)
-### Hi there 👋 I'm a little panda 🐼 who loves ☕
+### Hi there 👋 
 
-Lifelong Learner & Full-Stack Developer
+<div style="text-align: center;">
+<pre style="display: inline-block; text-align: left;">
+               ,----------------,              ,---------,
+          ,-----------------------,          ,"        ,"|
+        ,"                      ,"|        ,"        ,"  |
+       +-----------------------+  |      ,"        ,"    |
+       |  .-----------------.  |  |     +---------+      |
+       |  |                 |  |  |     | -==----'|      |
+       |  | 🐼:~$    |  |  |     |         |      |
+       |  |                 |  |  |/----|`---=    |      |
+       |  |                 |  |  |   ,/|==== ooo |      ;
+       |  |                 |  |  |  // |(((( [33]|    ,"
+       |  `-----------------'  |," .;'| |((((     |  ,"
+       +-----------------------+  ;;  | |         |,"
+          /_)______________(_/  //'   | +---------+
+     ___________________________/___  `,
+    /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+   / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+  /_==__==========__==_ooo__ooo=_/'   /___________,"
+  `-----------------------------'
+</pre>
+</div>
+
+I'm just a little panda 🐼 with a coffee obsession ☕ and a constant curiosity for learning!
 
 - 🤖 I’m currently developing an online travel agency app that helps users find last-minute hotel deals.
 - 🤔 I’m interested in distributed systems, web/mobile apps, and tooling automation.
