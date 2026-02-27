@@ -26,7 +26,7 @@
 
 I'm just a little panda 🐼 with a coffee obsession ☕ and a constant curiosity for learning!
 
-- 🤖 I’m currently developing an online travel agency app that helps users find last-minute hotel deals.
+- 🤖 I’m currently developing an online travel agency app(hoteltonight) that helps users find last-minute hotel deals.
 - 🤔 I’m interested in distributed systems, web/mobile apps, and tooling automation.
 - 🔭 I'm learning artificial intelligence concepts and techniques.
 
